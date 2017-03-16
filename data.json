@@ -1,0 +1,76 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Amariou",
+                    "short_name": "Amariou",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Peristeri",
+                    "short_name": "Peristeri",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ditikos Tomeas Athinon",
+                    "short_name": "Ditikos Tomeas Athinon",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Greece",
+                    "short_name": "GR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "121 35",
+                    "short_name": "121 35",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Amariou 49, Peristeri 121 35, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 38.0240502,
+                    "lng": 23.6847952
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.0253991802915,
+                        "lng": 23.68614418029151
+                    },
+                    "southwest": {
+                        "lat": 38.0227012197085,
+                        "lng": 23.6834462197085
+                    }
+                }
+            },
+            "place_id": "ChIJ5aBj62mjoRQRvrGSEvDTRUc",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "status": "OK"
+}
